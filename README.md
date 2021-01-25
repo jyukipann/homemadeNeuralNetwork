@@ -1,0 +1,2 @@
+# homemadeNeuralNetwork
+暇なときに自作のニューラルネットを記述するためのレポジトリ
